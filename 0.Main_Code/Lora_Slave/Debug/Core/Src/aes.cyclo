@@ -1,0 +1,12 @@
+stm32wlxx_ll_bus.h:634:22:LL_AHB3_GRP1_EnableClock	1
+stm32wlxx_ll_bus.h:720:22:LL_AHB3_GRP1_DisableClock	1
+aes.c:44:5:_write	1
+aes.c:70:6:MX_AES_Init	2
+aes.c:96:6:HAL_CRYP_MspInit	2
+aes.c:110:6:HAL_CRYP_MspDeInit	2
+aes.c:125:6:AES_start	2
+aes.c:150:6:AES_encrypt_Packet	2
+aes.c:163:6:AES_decrypt_Packet	2
+aes.c:175:6:print_array	2
+aes.c:183:6:AES_Encrypt	5
+aes.c:211:6:AES_Decrypt	5
