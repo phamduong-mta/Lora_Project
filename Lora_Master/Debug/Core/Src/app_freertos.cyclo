@@ -1,0 +1,4 @@
+app_freertos.c:71:6:vApplicationGetIdleTaskMemory	1
+app_freertos.c:85:6:MX_FREERTOS_Init	1
+app_freertos.c:128:6:StartLoraTask	1
+app_freertos.c:155:6:StartGPIOTask	1
